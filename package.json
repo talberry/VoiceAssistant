@@ -1,0 +1,25 @@
+{
+  "name": "voiceassistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talberry/VoiceAssistant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talberry/VoiceAssistant/issues"
+  },
+  "homepage": "https://github.com/talberry/VoiceAssistant#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
